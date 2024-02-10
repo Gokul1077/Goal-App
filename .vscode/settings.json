@@ -1,0 +1,6 @@
+{
+    "scm.autoReveal": true,
+    "scm.defaultViewMode": "list",
+    "scm.alwaysShowRepositories": false,
+    "scm.showInputActionButton": true
+}
